@@ -1,0 +1,65 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,titr>
+Титры
+
+\c[2]Движок
+
+RPG Maker MV
+
+
+
+\c[2]Автор идеи
+Иван Логвинов (Xsav_Games)
+
+
+\c[2]Сценарий
+Xsav_Games
+
+\c[2]Постановка
+Xsav_Games
+
+
+\c[2]Авторы Плагинов
+Galv
+Moghunter
+Yanfly EP
+Chaucer
+Phoenix KageDesu
+Yoji Ojima
+
+\c[2]Графика
+Time Fantasy mv
+Pop Horror mv
+
+\c[2] Музыка 
+Karugamo Fantasy
+Dark Horror Cinematic Music 
+
+\c[2] Звуки
+Karugamo Footstep
+HSPC
+Rpgm mv
+
+
+\c[2]Благодарности
+RavenStories — про российские игры и VK Play
+индимейкер - геймдев здесь
+Маленькая Ведьмочка (Marabunta)
+IGLA MAZUR (videoROCK)
+Yuryol
+Всем, кто подержал меня в группе в ВК
+
+
+
+
+Конец Демоверсии
+
+
+
+
+</block>
+
+
+
