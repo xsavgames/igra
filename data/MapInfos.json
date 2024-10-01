@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Мир","order":1,"parentId":0,"scrollX":2184,"scrollY":1282.6666666666667},
+{"id":1,"expanded":true,"name":"Мир","order":1,"parentId":0,"scrollX":1786.909090909091,"scrollY":1049.4545454545455},
 {"id":2,"expanded":false,"name":"Деревня Силк","order":2,"parentId":1,"scrollX":1390.2857142857142,"scrollY":824.5714285714286},
 {"id":3,"expanded":true,"name":"Дом гг","order":3,"parentId":2,"scrollX":1404,"scrollY":824.5714285714286},
 {"id":4,"expanded":false,"name":"Ферма Силк","order":11,"parentId":1,"scrollX":1404,"scrollY":824.5714285714286},
