@@ -95,9 +95,9 @@ null,
 {"id":93,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":94,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":95,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":96,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":97,"list":[{"code":126,"indent":0,"parameters":[476,1,0,1]},{"code":117,"indent":0,"parameters":[100]},{"code":0,"indent":0,"parameters":[]}],"name":"Выстрел","switchId":1,"trigger":0},
+{"id":96,"list":[{"code":122,"indent":0,"parameters":[116,116,0,0,1]},{"code":0,"indent":0,"parameters":[]}],"name":"Навык взлома","switchId":1,"trigger":0},
+{"id":97,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":98,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":99,"list":[{"code":122,"indent":0,"parameters":[20,20,0,3,0,476,0]},{"code":111,"indent":0,"parameters":[1,20,0,1,1]},{"code":318,"indent":1,"parameters":[0,1,0,246]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"проверка плюс","switchId":1,"trigger":0},
-{"id":100,"list":[{"code":122,"indent":0,"parameters":[20,20,0,3,0,476,0]},{"code":111,"indent":0,"parameters":[1,20,0,1,4]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Патроны кончились."]},{"code":111,"indent":1,"parameters":[9,42,true]},{"code":319,"indent":2,"parameters":[1,1,42]},{"code":318,"indent":2,"parameters":[0,1,1,246]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Проверка","switchId":1,"trigger":0}
+{"id":99,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":100,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
