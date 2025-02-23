@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":578,"name":"Щит","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
-{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":720,"name":"Шляпа","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
-{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":698,"name":"Одежда","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
-{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":800,"name":"Кольцо","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":2,"atypeId":2,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.35}],"iconIndex":0,"name":"Мантия мага","note":"","params":[0,0,0,35,15,20,0,0],"price":1500},
+{"id":3,"atypeId":2,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.45}],"iconIndex":0,"name":"Накидка колдуна","note":"","params":[0,0,0,50,0,25,0,0],"price":1750},
+{"id":4,"atypeId":2,"description":"В этой накидке вы почти бессмертный.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Накидка архимага","note":"","params":[0,0,0,150,0,50,0,0],"price":0},
 {"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":6,"atypeId":1,"description":"Такие накидки выдают по окнчанию обучения.\n+ 5 к защите всех типов.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":679,"name":"Накидка новичка","note":"","params":[0,10,0,5,0,10,0,0],"price":250},
 {"id":7,"atypeId":1,"description":"Такие накидки носят приключенцы которые поднабрались опыта.\n+10 к защите всех типов.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":688,"name":"Накидка мага","note":"","params":[0,15,0,10,0,15,0,0],"price":450},
@@ -26,8 +26,8 @@ null,
 {"id":24,"atypeId":3,"description":"Легкая броня +17 к защите +30 к очкам здоровья.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":622,"name":"Легкая броня приключенца","note":"","params":[30,0,15,17,0,0,0,25],"price":500},
 {"id":25,"atypeId":3,"description":"Легкая и прочная броня из хороших материалов.\n+19 к защите и +15 атк.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":630,"name":"Броня воина","note":"","params":[0,0,15,19,0,0,0,0],"price":650},
 {"id":26,"atypeId":4,"description":"Тяжолая броня, почти не сковывающая движение.\n+20 к защите, +150 к ХП ","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Тяжелая броня приключенца","note":"","params":[150,0,20,20,0,0,0,0],"price":1500},
-{"id":27,"atypeId":0,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Тяжелая броня ","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":28,"atypeId":2,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Магическая броня воина","note":"","params":[345,25,50,250,0,0,0,0],"price":1500},
+{"id":27,"atypeId":0,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Тяжелая броня ","note":"","params":[0,0,0,35,0,0,0,0],"price":0},
+{"id":28,"atypeId":2,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Магическая броня воина","note":"","params":[345,25,50,250,0,0,0,0],"price":0},
 {"id":29,"atypeId":5,"description":"Прочный щит из дерева.\n+15 к защите","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Щит приключенца","note":"","params":[0,0,0,15,0,0,0,0],"price":150},
 {"id":30,"atypeId":5,"description":"Металический небольшой щит.\n+25 к защите.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"щит воина ","note":"","params":[0,0,0,25,0,0,0,0],"price":150}
 ]
