@@ -5,7 +5,6 @@ will not display in the credits scene
 Титры
 
 \c[2]Движок
-
 RPG Maker MV
 
 
@@ -28,6 +27,8 @@ Yanfly EP
 Chaucer
 Phoenix KageDesu
 Yoji Ojima
+Victor Sant
+Pixeldrama
 
 \c[2]Графика
 Time Fantasy mv
@@ -47,8 +48,13 @@ Rpgm mv
 RavenStories — про российские игры и VK Play
 индимейкер - геймдев здесь
 Маленькая Ведьмочка (Marabunta)
-IGLA MAZUR (videoROCK)
+Павел Мазур
 Yuryol
+Sovara
+Анастасия Тюлюковская
+Кирилл Васильев
+Vrednaya Belka
+
 Всем, кто подержал меня в группе в ВК
 
 
